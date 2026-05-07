@@ -1,16 +1,9 @@
-# FashionIQ – AI-Powered Business Intelligence Agent
-### MGNM521 · CA1 · LPU · Dr. Arun Khatri
-
----
-
 ## 📌 Project Overview
 An AI-powered BI chatbot that:
 - Analyses 25,000 customer reviews (TextBlob sentiment)
 - Answers business queries via LangChain + Groq LLaMA-3 (free)
 - Visualises sentiment, trends, and inventory insights (Plotly)
 - Built with Streamlit (no heavy setup needed)
-
----
 
 ## 🗂️ Folder Structure
 ```
